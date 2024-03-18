@@ -36,11 +36,6 @@ When conducting a data analysis project on restaurants in your hometown, it's im
 
 The potential impact on small businesses is another significant concern. It's important to approach the analysis with sensitivity to how it might influence local, especially family-owned, establishments. This involves maintaining a balance in portraying diverse types of restaurants without bias towards certain cuisines, pricing, or locations, thereby ensuring a fair representation of the community's dining options. Also, the accessibility of your visualizations is critical, ensuring they can be understood by a broad audience, including those with disabilities.
 
-
-
-
-
-
 ### Workflow for Exploratory Data Analysis part of the project
 
 1. Raw data extracted from Yelp website using their public API
@@ -67,6 +62,21 @@ We created four notebooks for this project:
 
   7. Clean data for interactive map visualisation is located in Resources directory
 
+## Visualisations
+
+### Interative Map
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Usage
@@ -79,6 +89,11 @@ Explore the interactive map to see the restaurants data visualised with markers 
 
 * Clean data extracted from the database and used for Visualisation and analysis 
 * Make query to the backend (SQLite database) to retrieve data for visualisation and creating interactive map created by folium library
+
+
+
+
+
 ## Visualisation:
 * Folium, Pandas, Matplotlib, scipy.stats, Ipywidgets
   
