@@ -30,8 +30,18 @@ The data were messy, with some columns containing lists of dictionaries, and dat
 
 Jeremy Hooper started work on creating the interactive map before the data set was cleaned. He did some cleaning by hand to ensure that this dataset was ready for mapping. Thus the data used for the interactive map has some minor differences to the dataset used in the other analyses.
 
+### Ethical considerations in this project
 
-#   Workflow for Exploratory Data Analysis part of the project
+When conducting a data analysis project on restaurants in your hometown, it's important to consider several ethical considerations carefully. Privacy and anonymity are paramount; ensuring that personal data, potentially linked to restaurant owners or patrons, is is private and anonomous protects individuals. Accuracy in representing restaurant ratings, pricing, and locations is also crucial, as inaccuracies can unfairly affect a restaurant's reputation. Additionally, consider the origins of your data and whether the restaurants consented to their information being utilized, which respects their rights and intentions.
+
+The potential impact on small businesses is another significant concern. It's important to approach the analysis with sensitivity to how it might influence local, especially family-owned, establishments. This involves maintaining a balance in portraying diverse types of restaurants without bias towards certain cuisines, pricing, or locations, thereby ensuring a fair representation of the community's dining options. Also, the accessibility of your visualizations is critical, ensuring they can be understood by a broad audience, including those with disabilities.
+
+
+
+
+
+
+### Workflow for Exploratory Data Analysis part of the project
 
 1. Raw data extracted from Yelp website using their public API
 
@@ -39,7 +49,23 @@ Jeremy Hooper started work on creating the interactive map before the data set w
 
 3. The clean data was transferred and stored in SQLite database for future use in the project.
 
+### Navigating the Repository
 
+We created four notebooks for this project:
+
+  1. API_data_extraction.ipynb used for extracting data from Yelp Website,
+ 
+  2. data_cleaning.ipynb for cleaning the raw data,
+      
+  3. database_operation_and_visualisation.ipynb for housing our clean data in SQLite database and performing EDA analysis,
+     
+  4. Yelp_Restaurants.ipynb for creating an interactive map for users to explore their desired place from different places to eat in Perth.
+   
+  5. Detailed analysis are provided inside the database_operation_and_visualisation.ipynb
+   
+  6. The raw data, clean csv, and Excel data by using Pandas are stored in the data directory
+
+  7. Clean data for interactive map visualisation is located in Resources directory
 
 
 
@@ -47,13 +73,7 @@ Jeremy Hooper started work on creating the interactive map before the data set w
 Explore the interactive map to see the restaurants data visualised with markers representing name, address, phone number, price level, rating, number of revies, and more information. You also can narrow down your searches from the dropdown menu provided and search whatever your preferences are for eating out. Click on individual markers to get more information about each food businesses.
 
    
-#   Development Workflow for EDA part of project
-## Data Source:
-* Raw data extracted from Yelp website using their public API
-* Data got cleaned and ready for visuailisation and analysis using Pandas
-## Backend:
-* Clean data transferred and stored in SQLite database for future use
-## Frontend:
+#
 
 
 
@@ -62,21 +82,8 @@ Explore the interactive map to see the restaurants data visualised with markers 
 ## Visualisation:
 * Folium, Pandas, Matplotlib, scipy.stats, Ipywidgets
   
-# Navigating the Repository
-* We created four notebooks for this project:
-  1. API_data_extraction.ipynb used for extracting data from Yelp Website
-  2. data_cleaning.ipynb for cleaning the raw data
-  3. database_operation_and_visualisation.ipynb for housing our clean data in SQLite database and performing EDA analysis
-  4. interactive_map.ipynb for creating an interactive map for users to explore their desired place from different places to eat in Perth
-   
-* Detailed analysis are provided inside the database_operation_and_visualisation.ipynb
-   
-* The raw data, clean csv, and Excel data by using Pandas are stored in the data directory
-* Clean data for interactive map visualisation is located in Resources directory
-  
-# Note(Jeremy's explanation)
 
-# Ethical considerations in this project
+
 
 # Data Source
 Data for restaurants and bars in Perth from https://www.yelp.com.au/perth
