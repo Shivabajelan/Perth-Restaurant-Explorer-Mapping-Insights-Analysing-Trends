@@ -23,7 +23,12 @@ We posed the following questions:
  3. Does the category of restaurants correlate with the number of reviews?
    
 ### Data Sorce
-We obtained our data set from Yelp, using its publicly available API restaurants data set. 
+
+We obtained our data set from Yelp, using its publicly available API restaurants data set. Yelp must first approve a person's application to download data before they can do that. The data are public and are free for educational purposes such as our project. Anrie Santos arranged the downloading of our data set.
+
+The data were messy, with some columns containing lists of dictionaries, and data not uniformly entered. Shiva Bajelan did most of the cleaning with some help from Sean Whitehead.
+
+Jeremy Hooper started work on creating the interactive map before the data set was cleaned. He did some cleaning by hand to ensure that this dataset was ready for mapping. Thus the data used for the interactive map has some minor differences to the dataset used in the other analyses.
 
 
 # Usage
