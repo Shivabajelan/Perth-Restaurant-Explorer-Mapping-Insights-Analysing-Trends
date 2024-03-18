@@ -1,7 +1,12 @@
-# Yelp_Data_Insights_Dashboard
-Group members: Shiva Bajelan, Anrie Santos, Jeremy Hooper
+# Project 3 - Visualisation Stream 
 
-Imagine it is a special day, and you just want to go out for dinner. We plan to examine the restaurants of Perth and its suburbs (mainly around the city) and prepare a dashboard showing a map of where they are, what kind of cuisines they have, their rating, their price level, and much more information you need to know. We plan to make choosing your favourite cuisine easy for you and help to create a good experience out of your special day. 
+## Perth Restaurant Explorer: Mapping Insights & Analyzing Trends
+
+## Shiva BAJELAN, Anrie SANTOS, Jeremy HOOPER
+
+Imagine it is a special day, and you want to go out for dinner. We have examined 532 different restaurants in Perth and their surroundings and prepared an interactive map showing where they are, their cuisines, ratings, price levels, and the information you need to know to play your special day out.
+
+We plan to examine the restaurants of Perth and its suburbs (mainly around the city) and prepare a dashboard showing a map of where they are, what kind of cuisines they have, their rating, their price level, and much more information you need to know. We plan to make choosing your favourite cuisine easy for you and help to create a good experience out of your special day. 
 
 In the other part of this project, by looking at the Yelp data about restaurants and bars in Perth, we aim to perform exploratory data analysis to determine relationships between some different variables.
 
