@@ -74,55 +74,29 @@ We have used the following libraries to produce out plots that haven't been used
 
 ## Visualisations
 
-### Interative Map
+### Interactive Map
 
 
 ![PandasFolium_Map-All_Restaurants](https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/assets/144417761/89578a4f-847b-42b0-ad8e-6770588220fa)
 
-The interactive map shows all of the 532 restaurants in our data set. At the top left it shows the list of layers that can be toggled on and off. Fifteen of the layers are the cuisine categories, while four are price points are two are rating levels.
+This interactive map shows all of the 532 restaurants in our data set. At the top left it shows the list of layers that can be toggled on and off. Fifteen of the layers are the cuisine categories, while four are price points are two are rating levels.
+In addition, a popup is displayed that shows the restaurant's name, activities, cuisine category, Price point, Rating, number of ratings, and contact details. 
 
 ![PandasFolium_Map-Chinese_Restaurants](https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/assets/144417761/42720219-f506-4ade-bc8d-ca309efe1ee4)
+
+This interactive map shows the Chinese Restaurants located in Perth, Northbridge and some other areas.
 
 
 ![PandasFolium_Map-$$$_Restaurants](https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/assets/144417761/792957d4-85ee-476c-be4a-df621bd98de1)
 
-
+This interactive map shows the restaurants with the $$$ price point.
 
 ![PandasFolium_Map-RatingGTE4_Restaurants](https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/assets/144417761/a406c72a-0646-48b6-a176-0e59122ccd61)
 
+This interactive map shows the restaurants with ratings greater than 4.0.
 
-
-
-
-
-
-
-
-
-
-
-
-# Usage
-Explore the interactive map to see the restaurants data visualised with markers representing name, address, phone number, price level, rating, number of revies, and more information. You also can narrow down your searches from the dropdown menu provided and search whatever your preferences are for eating out. Click on individual markers to get more information about each food businesses.
-
-   
-
-
-
-
-* Clean data extracted from the database and used for Visualisation and analysis 
-* Make query to the backend (SQLite database) to retrieve data for visualisation and creating interactive map created by folium library
-
-
-
-
-
-## Visualisation:
-* Folium, Pandas, Matplotlib, scipy.stats, Ipywidgets
-  
-
-
-
+### Other visualisations
+Other visualisations are described in the Jupyter files and the PowerPoint presentation.
 
 # License 
 This project is licensed under the MIT License.
