@@ -1,8 +1,8 @@
-## Project 3 - Visualisation Stream 
+## Project 3 
 
 ### Perth Restaurant Explorer: Mapping Insights & Analyzing Trends
 
-### Shiva BAJELAN, Anrie SANTOS, Jeremy HOOPER
+### Group members: Shiva BAJELAN, Anrie SANTOS, Jeremy HOOPER
 
 ### Introduction
 
