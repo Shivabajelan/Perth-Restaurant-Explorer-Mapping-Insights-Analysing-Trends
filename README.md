@@ -61,7 +61,7 @@ We created four notebooks for this project:
    
   6. The raw data, clean CSV, and Excel data by using Pandas are stored in the data directory
 
-  7. Clean data for interactive map visualisation is located in the Resources directory
+  7. Clean data for interactive map visualisation is located in the Interactive_Map directory
 
 ### Storage of data online
 The two data sets are stored online in SQLite datasets. I have commented out the original data loading code from a CSV file, and also the original loading to SQLite database.
