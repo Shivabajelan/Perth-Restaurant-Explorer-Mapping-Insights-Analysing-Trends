@@ -77,6 +77,7 @@ We have used the following libraries to produce out plots that haven't been used
 
 ### Interative Map
 
+![image](https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/assets/144417761/3a5bca44-b12f-449a-b2df-ce3b3d9db93b)
 
 
 
