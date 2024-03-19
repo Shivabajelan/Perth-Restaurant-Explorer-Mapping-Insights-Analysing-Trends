@@ -38,7 +38,7 @@ The potential impact on small businesses is another significant concern. It's im
 
 ### Workflow for Exploratory Data Analysis part of the project
 
-1. Raw data extracted from Yelp website using their public API
+1. Raw data extracted from the Yelp website using their public API
 
 2. Cleaned Data and made it ready for visualisation and analysis using Pandas and some cleaned by hand for the interactive maps section.
 
@@ -62,8 +62,8 @@ We created four notebooks for this project:
 
   7. Clean data for interactive map visualisation is located in the Resources directory
 
-### How it Works
-
+### Storage of data online
+The two data sets are stored online in SQLite datasets. I have commented out the original data loading code from a CSV file, and also the original loading to SQLite database.
 
 ### New Libraries
 We have used the following libraries to produce out plots that haven't been used in our course todate: 
@@ -72,7 +72,6 @@ We have used the following libraries to produce out plots that haven't been used
   
  2.  ipywidgets - ipywidgets is a powerful Python Library that provides a list of widgets quite common in web apps and dashboards like dropdowns, checkboxes, radio buttons, buttons, and many more.
 
-
 ## Visualisations
 
 ### Interative Map
@@ -80,7 +79,7 @@ We have used the following libraries to produce out plots that haven't been used
 
 ![PandasFolium_Map-All_Restaurants](https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/assets/144417761/89578a4f-847b-42b0-ad8e-6770588220fa)
 
-
+The interactive map shows all of the 532 restaurants in our data set. At the top left it shows the list of layers that can be toggled on and off. Fifteen of the layers are the cuisine categories, while four are price points are two are rating levels.
 
 ![PandasFolium_Map-Chinese_Restaurants](https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/assets/144417761/42720219-f506-4ade-bc8d-ca309efe1ee4)
 
