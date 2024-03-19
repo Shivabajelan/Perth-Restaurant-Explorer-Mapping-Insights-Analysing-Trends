@@ -77,7 +77,8 @@ We have used the following libraries to produce out plots that haven't been used
 
 ### Interative Map
 
-https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/blob/Jeremy/Interactive_Map/Map_Images/PandasFolium_Map-All_Restaurants.jpg
+
+![PandasFolium_Map-All_Restaurants](https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/assets/144417761/89578a4f-847b-42b0-ad8e-6770588220fa)
 
 
 
