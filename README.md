@@ -80,18 +80,19 @@ We have used the following libraries to produce out plots that haven't been used
 
 ![PandasFolium_Map-All_Restaurants](https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/assets/144417761/89578a4f-847b-42b0-ad8e-6770588220fa)
 
-
+Interactive Map - Showing all 532 restaurants with all cuisines, price points and ratings. Note the area where you can toggle cuisine categories, price points and rating levels. Note the name of the restaurant, some of its activities, its category Cuisine), its price point, rating, number of ratings, and contact details on the popup.
 
 ![PandasFolium_Map-Chinese_Restaurants](https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/assets/144417761/42720219-f506-4ade-bc8d-ca309efe1ee4)
 
+Interactive Map - Showing the Chinese Restaurants in Perth, Northbridge, and some surrounding areas
 
 ![PandasFolium_Map-$$$_Restaurants](https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/assets/144417761/792957d4-85ee-476c-be4a-df621bd98de1)
 
-
+Interactive Map showing all the moderately expensive restaurant (Price Point $$$) in Perth and surrounds.
 
 ![PandasFolium_Map-RatingGTE4_Restaurants](https://github.com/Shivabajelan/Yelp_Data_Insights_Dashboard/assets/144417761/a406c72a-0646-48b6-a176-0e59122ccd61)
 
-
+Interactive Map showing all the Restaurants receiving ratings of 4.0 and above.
 
 
 
