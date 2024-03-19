@@ -25,6 +25,7 @@ We posed the following questions:
 ### Data Source
 
 We obtained our data set from Yelp, using its publicly available API restaurants data set. Yelp must first approve a person's application to download data before they can do that. The data are public and are free for educational purposes such as our project. Anrie Santos arranged the downloading of our data set.
+https://www.yelp.com
 
 The data were messy, with some columns containing lists of dictionaries, and data not uniformly entered. Shiva Bajelan did most of the cleaning with some help from Sean Whitehead.
 
