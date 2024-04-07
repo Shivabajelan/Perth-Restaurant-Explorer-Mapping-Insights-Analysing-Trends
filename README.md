@@ -64,7 +64,7 @@ We created four notebooks for this project:
   7. Clean data for interactive map visualisation is located in the Interactive_Map directory
 
 ### Storage of data online
-The two data sets are stored online in SQLite datasets. I have commented out the original data loading code from a CSV file, and also the original loading to SQLite database.
+The two data sets are stored online in SQLite databases. I have commented out the original data loading code from a CSV file, and also the original loading to SQLite database.
 
 ### New Libraries
 We have used the following libraries to produce out plots that haven't been used in our course todate: 
