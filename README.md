@@ -2,8 +2,6 @@
 
 ### Perth Restaurant Explorer: Mapping Insights & Analyzing Trends
 
-### Group members: Shiva BAJELAN, Anrie SANTOS, Jeremy HOOPER
-
 ### Introduction
 
 Imagine it is a special day, and you want to go out for dinner. We have examined 532 different restaurants in Perth and their surroundings and prepared an interactive map showing where they are, their cuisines, ratings, price levels, and the information you need to know to play your special day out.
