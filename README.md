@@ -1,6 +1,6 @@
 ## Project 3 
 
-### Perth Restaurant Explorer: Mapping Insights & Analyzing Trends
+### Perth Restaurant Explorer: Mapping Insights & Analysing Trends
 
 ### Introduction
 
